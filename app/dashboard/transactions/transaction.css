@@ -1,0 +1,9 @@
+.done{
+    background-color: darkolivegreen;
+}
+.cancelled{
+    background-color: brown;
+}
+.pending{
+    background-color: coral;
+}

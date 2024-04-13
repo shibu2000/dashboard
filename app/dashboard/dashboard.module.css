@@ -1,0 +1,9 @@
+.content {
+  flex: 4;
+}
+.main{
+  flex: 3;
+}
+.rightbar{
+  flex: 1;
+}
